@@ -1,0 +1,8 @@
+{
+  "name": "LifeOS",
+  "description": "Your all-in-one AI companion for health, lifestyle, career, and utility.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
